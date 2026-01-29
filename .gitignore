@@ -166,3 +166,4 @@ cython_debug/
 *.pth 
 *.bin 
 *.db
+*.deb
